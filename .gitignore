@@ -13,3 +13,5 @@ bin-intermediate/
 Box2D.vcxproj
 
 Box2D.vcxproj.filters
+
+Box2D.vcxproj.user
